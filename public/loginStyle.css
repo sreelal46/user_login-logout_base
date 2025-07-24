@@ -1,0 +1,37 @@
+body {
+  background-color: #f3f3f3;
+}
+.login-box {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.amazon-logo {
+  display: block;
+  margin: 20px auto 10px;
+  width: 120px;
+}
+.invalid {
+  color: red;
+  text-align: center;
+}
+.btn-amazon {
+  background-color: #f0c14b;
+  border-color: #a88734;
+  color: #111;
+  width: 100%;
+}
+.btn-amazon:hover {
+  background-color: #e2b33b;
+}
+.footer-links a {
+  font-size: 12px;
+  color: #0066c0;
+  text-decoration: none;
+}
+.footer-links a:hover {
+  text-decoration: underline;
+}

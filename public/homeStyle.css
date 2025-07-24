@@ -1,0 +1,32 @@
+body {
+  background-color: #f3f3f3;
+  font-family: Arial, sans-serif;
+}
+.amazon-logo {
+  display: block;
+  margin: 30px auto 10px;
+  width: 150px;
+}
+.welcome-box {
+  background-color: #fff;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+.welcome-message {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.btn-logout {
+  background-color: #f0c14b;
+  border-color: #a88734;
+  color: #111;
+  padding: 10px 25px;
+  font-weight: bold;
+}
+.btn-logout:hover {
+  background-color: #e2b33b;
+}
